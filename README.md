@@ -8,7 +8,7 @@ A responsive interactive card details form built as part of a Frontend Mentor ch
 
 ## Repository
 
-[View the GitHub repository](YOUR_GITHUB_REPOSITORY_URL)
+[View the GitHub repository](https://github.com/DevAdeh/Interactive-Card-Details-Form)
 
 ## Screenshot
 
