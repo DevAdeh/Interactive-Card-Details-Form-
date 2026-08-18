@@ -41,7 +41,7 @@ Users can enter their card details and see the information update on the card pr
 - Responsive design / media queries
 - DOM manipulation
 
-## What I Learned
+## What I Learnt 
 
 While building this project, I practiced:
 
@@ -75,7 +75,7 @@ If I continued working on this project, I would consider:
 
 ## Author
 
-**Adeh**
+**Adeola Ejikunle**
 
 - GitHub: [@DevAdeh](https://github.com/DevAdeh)
 
